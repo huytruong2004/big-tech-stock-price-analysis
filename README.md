@@ -26,7 +26,7 @@
 ## Plan
 
 - [X] Create repository and add dataset
-- [X] Data exploration and preprocessing
+- [ ] Data exploration and preprocessing
 - [ ] Correlation analysis
   - [ ] Calculate and visualize correlations between companies
   - [ ] Analyze correlation changes over time
