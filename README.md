@@ -32,6 +32,6 @@
   - [ ] Analyze correlation changes over time
   - [ ] Identify market factors affecting correlations
 - [ ] Events impact analysis
-  - [ ] Define key event periods (financial crisis, COVID-19, rise of LLMs, ...)
+  - [ ] Define key event periods (financial crisis, COVID-19, rise of LLMs, ...) and get corresponding external datasets
   - [ ] Analyze trends during these periods and compare patterns across different stocks
 - [ ] Final report
