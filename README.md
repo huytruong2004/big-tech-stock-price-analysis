@@ -1,4 +1,4 @@
-# Big Tech Stocks Prices Analysis
+# Big Tech Stock Prices Analysis
 
 ## Datasets
 
