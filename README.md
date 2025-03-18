@@ -4,7 +4,7 @@
 
 - [Big Tech Stock Price Dataset](https://github.com/rfordatascience/tidytuesday/blob/main/data/2023/2023-02-07/readme.md)
 - This dataset contains stock price data for big techs like Apple, Amazon, Google, Microsoft. The data is about daily trading info such as opening and closing prices, trading volume, and price adjustments, from January 2010 to 2023.
-
+- Our team choose this dataset simply because we want to gain more insights about the fluctuations throughout the technology revolution, and see how important events and emerging technologies like LLMs reshaped the stock value of tech industry.
 ## Data Dictionary
 
 | Variable     | Class     | Description                                                                                                                                                                                                                      |
