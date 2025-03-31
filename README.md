@@ -8,6 +8,8 @@
 
 ## Data Dictionary
 
+**Big Tech Stock Price Dataset**
+
 | Variable     | Class     | Description                                                                                                                                                                                                                      |
 | ------------ | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | stock_symbol | character | Stock symbol                                                                                                                                                                                                                     |
@@ -18,6 +20,15 @@
 | close        | double    | The price at market close, adjusted for splits                                                                                                                                                                                   |
 | adj_close    | double    | The closing price after adjustments for all applicable splits and dividend distributions. Data is adjusted using appropriate split and dividend multipliers, adhering to Center for Research in Security Prices (CRSP) standards |
 | volume       | double    | The number of shares traded on that day                                                                                                                                                                                          |
+
+**Events Timeline Dataset (External)**
+
+| Variable     | Class     | Description                                                                |
+| ------------ | --------- | -------------------------------------------------------------------------- |
+| stock_symbol | character | Stock symbol                                                               |
+| date         | date      | Date                                                                       |
+| type         | character | Types: product/service launch, company-related event, major economic event |
+| description  | character | Short description of what happened                                         |
 
 ## Questions
 - What are some fundamentals and useful indicators that newbies must know to perform basic technical analysis?
