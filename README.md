@@ -35,6 +35,6 @@
 - [ ] Correlation analysis
   - Pick some high-impact events between companies during that event period.
   - Use interactive heatmaps and correlation matrices that update over different sliding window.
-  - Give insights about the companies' correlation (Why are they behaving like that?, What are the causes?, etc.)
+  - Give insights about the companies' correlation (Why are they behaving like that? What causes?, What market factors or industry trends might explain these relationships?)
 - [ ] Presentation
 - [ ] Final report
