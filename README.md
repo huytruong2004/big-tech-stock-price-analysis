@@ -27,7 +27,6 @@
 | ------------ | --------- | -------------------------------------------------------------------------- |
 | stock_symbol | character | Stock symbol                                                               |
 | date         | date      | Date                                                                       |
-| type         | character | Types: product/service launch, company-related event, major economic event |
 | description  | character | Short description of what happened                                         |
 
 ## Questions
