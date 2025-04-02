@@ -31,13 +31,13 @@
 
 ## Questions
 - What are some fundamentals and useful indicators that newbies must know to perform basic technical analysis?
-- How did product/service launched dates, company-related events amd major economic events (financial crisis, COVID-19 pandemic, the rise of LLMs) affected the volatility and recovery patterns of different tech stocks?
+- How did product/service launched dates, company-related events and major economic events (financial crisis, COVID-19 pandemic, the rise of LLMs) affected the volatility and recovery patterns of different tech stocks?
 - What are the correlations between stock price trends of these big techs, and how have these correlations changed over time? If one exist, what market factors or industry trends might explain these relationships?
 
 ## Plan
 
 - [X] Create repository and add dataset
-- [X] Manually collect data to form up the company-specific event time line dataset
+- [X] Manually collect data to form up the company-specific Timeline Dataset
 - [ ] Events impact analysis
   - Use Plotly to create candlestick charts for all 15 big techs to show daily trading data (using open, high, low, close columns), with an option to choose the period (7D, 30D) to display.
   - Overlay with calculated indicators like moving averages (MA) and Bollinger Bands to illustrate volatility to support technical analysis, with an option to toggle on or off.

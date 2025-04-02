@@ -1,113 +1,336 @@
 stock_symbol,date,description
-AAPL,1976-04-01,Apple Computer Company is founded by Steve Jobs and Steve Wozniak in California
-AAPL,1977-04-16,"Apple introduces the Apple II, one of the first successful personal computers"
-AAPL,1980-12-12,Apple launches its initial public offering (IPO) on the NASDAQ stock exchange
-AAPL,1984-01-24,Apple unveils the Macintosh computer with a graphical user interface
-AAPL,1985-09-16,Co-founder Steve Jobs resigns from Apple after a power struggle with the board
-AAPL,1997-07-09,Steve Jobs returns to Apple as interim CEO after the ouster of CEO Gil Amelio
-AAPL,1998-08-15,"Apple releases the iMac G3, a colorful all-in-one computer that revitalizes sales"
-AAPL,2001-01-09,Apple introduces the iTunes media software at the Macworld Expo
-AAPL,2001-03-24,"Apple releases Mac OS X 10.0, its new UNIX-based operating system"
-AAPL,2001-10-23,Apple unveils the iPod, its first portable digital music player
-AAPL,2007-01-09,Apple CEO Steve Jobs announces the iPhone and renames the company Apple Inc.
-AAPL,2007-01-09,Apple introduces the Apple TV set-top box for streaming video
-AAPL,2010-04-03,Apple releases the iPad, creating a new category of tablet computers
-AAPL,2011-08-24,Tim Cook becomes CEO of Apple as Steve Jobs steps down due to health issues
-AAPL,2014-09-09,Apple unveils the iPhone 6 and the Apple Watch, its first wearable device
-AAPL,2016-09-07,Apple introduces AirPods, its truly wireless earbuds
-AAPL,2017-09-12,Apple unveils the iPhone X, introducing Face ID and an edge-to-edge display
-AAPL,2018-08-02,Apple becomes the first U.S. company to reach a $1 trillion market valuation
-AAPL,2019-03-25,Apple announces its Apple TV+ streaming service and other subscription services
-AAPL,2019-03-25,Apple announces the Apple Card credit card in partnership with Goldman Sachs
-ADBE,1982-12-02,Adobe Systems is founded by John Warnock and Charles Geschke in California
-ADBE,1985-01-23,Adobe’s PostScript technology debuts becoming a standard for desktop printing
-ADBE,1986-08-20,Adobe has its initial public offering (IPO) on the NASDAQ stock market
-ADBE,1987-03-19,Adobe releases Illustrator 1.0 its vector graphics drawing program for Macintosh
-ADBE,1990-02-19,Adobe releases Photoshop 1.0 its landmark digital image editing software
-ADBE,1993-06-15,Adobe launches Acrobat and the PDF format enabling portable document sharing
-ADBE,2005-12-03,Adobe completes its acquisition of rival Macromedia adding Flash and Dreamweaver
-ADBE,2013-05-06,Adobe announces it will move to a subscription-only model with Creative Cloud
-ADBE,2018-05-21,Adobe announces a $1.68 billion deal to acquire e-commerce platform Magento
-ADBE,2018-09-20,Adobe announces a $4.75 billion deal to acquire marketing software firm Marketo
-AMZN,1994-07-05,Jeff Bezos founds Amazon.com (as Cadabra Inc.) an online bookseller
-AMZN,1995-07-16,Amazon launches its website selling books online to the public
-AMZN,1997-05-15,Amazon holds its initial public offering (IPO) on the NASDAQ stock exchange
-AMZN,2005-02-02,Amazon introduces Amazon Prime a membership offering free two-day shipping
-AMZN,2006-03-14,Amazon Web Services (AWS) launches with its first cloud storage service (S3)
-AMZN,2007-11-19,Amazon releases the Kindle its first e-reader device for downloading e-books
-AMZN,2017-06-16,Amazon announces a $13.7 billion agreement to acquire Whole Foods Market
-AMZN,2021-07-05,Andy Jassy becomes CEO of Amazon succeeding founder Jeff Bezos
-CRM,1999-03-08,Salesforce.com is founded by Marc Benioff and partners as a cloud CRM company
-CRM,2004-06-23,Salesforce goes public with an initial public offering (IPO) on the NYSE
-CRM,2018-03-20,Salesforce announces a $6.5 billion deal to acquire integration company MuleSoft
-CRM,2019-06-10,Salesforce announces a $15.7 billion agreement to acquire data analytics firm Tableau
-CRM,2020-12-01,Salesforce announces it will acquire workplace messaging company Slack for $27.7 billion
-CRM,2021-07-21,Salesforce completes its acquisition of Slack Technologies
-CSCO,1984-12-10,Cisco Systems is founded by Leonard Bosack and Sandy Lerner in California
-CSCO,1990-02-16,Cisco goes public with an initial public offering (IPO) on the NASDAQ
-CSCO,1995-01-31,John Chambers is appointed CEO of Cisco beginning a 20-year tenure
-CSCO,2000-03-27,Cisco’s market capitalization briefly makes it the world’s most valuable company
-CSCO,2009-06-08,Cisco becomes a component of the Dow Jones Industrial Average stock index
-CSCO,2015-07-26,Chuck Robbins takes over as CEO of Cisco succeeding John Chambers
-GOOGL,1998-09-04,Google is founded by Larry Page and Sergey Brin in Menlo Park California
-GOOGL,2000-10-23,Google launches AdWords its online advertising platform for search
-GOOGL,2004-08-19,Google completes its initial public offering (IPO) going public on the NASDAQ
-GOOGL,2005-07-11,Google acquires Android Inc. kickstarting its mobile operating system development
-GOOGL,2006-10-09,Google announces a $1.65 billion agreement to acquire video site YouTube
-GOOGL,2008-09-02,Google releases the Chrome web browser entering the browser market
-GOOGL,2015-08-10,Google announces a corporate reorganization creating new parent company Alphabet Inc.
-IBM,1911-06-16,The Computing-Tabulating-Recording Company (CTR) IBM’s predecessor is founded
-IBM,1924-02-14,CTR is renamed International Business Machines Corporation (IBM) under Thomas Watson
-IBM,1964-04-07,IBM announces the System/360 family of mainframe computers a revolutionary platform
-IBM,1981-08-12,IBM introduces the IBM Personal Computer (IBM 5150) entering the PC market
-IBM,2004-12-08,IBM announces the sale of its PC division to Lenovo exiting the personal computer business
-IBM,2011-02-16,IBM’s Watson supercomputer defeats champions on Jeopardy! showcasing AI advancements
-IBM,2012-01-01,Virginia Rometty becomes IBM’s CEO the first woman to lead the company
-IBM,2018-10-28,IBM announces a $34 billion deal to acquire open-source software company Red Hat
-INTC,1968-07-18,Intel Corporation is founded by Gordon Moore and Robert Noyce in Silicon Valley
-INTC,1971-11-15,Intel introduces the 4004 the world’s first commercial microprocessor
-INTC,1978-06-08,Intel launches the 8086 microprocessor which will later power the IBM PC
-INTC,1993-03-22,Intel releases the Pentium processor a new generation of its x86 microprocessors
-INTC,2015-06-01,Intel announces a $16.7 billion agreement to acquire FPGA-maker Altera
-INTC,2017-03-13,Intel announces a $15.3 billion deal to acquire autonomous driving tech firm Mobileye
-INTC,2021-02-15,Pat Gelsinger becomes CEO of Intel returning to lead the company after Bob Swan
-META,2004-02-04,Mark Zuckerberg launches “TheFacebook” from his Harvard dorm the start of Facebook
-META,2012-04-09,Facebook announces it will acquire Instagram a photo-sharing app for $1 billion
-META,2012-05-18,Facebook holds its initial public offering (IPO) one of the largest in tech history
-META,2014-02-19,Facebook announces a $19 billion agreement to acquire messaging service WhatsApp
-META,2021-10-28,Facebook Inc. rebrands itself as Meta Platforms focusing on the metaverse vision
-MSFT,1975-04-04,Bill Gates and Paul Allen found Microsoft to develop software for the Altair 8800
-MSFT,1985-11-20,Microsoft releases Windows 1.0 its first graphical personal computer operating system
-MSFT,1986-03-13,Microsoft goes public with an initial public offering (IPO) on the NASDAQ
-MSFT,1995-08-24,Microsoft releases Windows 95 a major update that popularizes the modern GUI and Start menu
-MSFT,2000-01-13,Steve Ballmer is named CEO of Microsoft succeeding co-founder Bill Gates
-MSFT,2001-11-15,Microsoft launches the Xbox entering the video game console market
-MSFT,2014-02-04,Satya Nadella becomes CEO of Microsoft ushering in a cloud-focused era
-MSFT,2016-06-13,Microsoft announces a $26.2 billion deal to acquire professional network LinkedIn
-MSFT,2018-10-26,Microsoft completes its $7.5 billion acquisition of code-sharing platform GitHub
-NFLX,1997-08-29,Netflix is founded by Reed Hastings and Marc Randolph as a DVD-by-mail rental service
-NFLX,1998-04-14,Netflix launches its website offering online DVD rentals with a catalog of 925 titles
-NFLX,1999-09-01,Netflix introduces a monthly subscription model for unlimited DVD rentals (no due dates)
-NFLX,2002-05-23,Netflix goes public with an initial public offering (IPO) on the NASDAQ
-NFLX,2007-01-15,Netflix launches its streaming video service allowing subscribers to watch content online
-NFLX,2013-02-01,Netflix premieres House of Cards its first major original series released for streaming
-NFLX,2016-01-06,Netflix launches in 130 new countries simultaneously expanding its service globally
-NVDA,1993-04-05,NVIDIA is founded by Jensen Huang Chris Malachowsky and Curtis Priem to focus on computer graphics
-NVDA,1999-08-31,NVIDIA launches the GeForce 256 dubbed the world’s first GPU transforming graphics processing
-NVDA,2006-11-08,NVIDIA unveils the CUDA architecture with its G80 GPU enabling general-purpose GPU computing
-NVDA,2019-03-11,NVIDIA announces a $6.9 billion deal to acquire high-performance networking firm Mellanox
-NVDA,2020-09-13,NVIDIA announces a proposal to acquire ARM Holdings from SoftBank for $40 billion
-ORCL,1977-06-16,Larry Ellison Bob Miner and Ed Oates incorporate Software Development Laboratories (SDL) later renamed Oracle
-ORCL,1986-03-12,Oracle Corporation goes public with an initial public offering (IPO) on the NASDAQ
-ORCL,2004-12-13,Oracle announces a $10.3 billion deal to acquire enterprise software rival PeopleSoft
-ORCL,2009-04-20,Oracle announces a $7.4 billion agreement to acquire Sun Microsystems adding Java and Solaris to its portfolio
-ORCL,2014-09-18,Larry Ellison steps down as Oracle’s CEO with Mark Hurd and Safra Catz named co-CEOs
-ORCL,2016-07-28,Oracle announces a $9.3 billion deal to acquire cloud ERP pioneer NetSuite
-TSLA,2003-07-01,Tesla Motors is founded by Martin Eberhard and Marc Tarpenning to develop electric vehicles
-TSLA,2008-03-17,Tesla begins production of the Roadster the first highway-capable electric car in the modern era
-TSLA,2010-06-29,Tesla goes public with an initial public offering (IPO) on the NASDAQ stock exchange
-TSLA,2012-06-22,Tesla delivers the first Model S electric sedans to customers its first proprietary vehicle model
-TSLA,2016-11-21,Tesla completes its $2.6 billion acquisition of SolarCity entering the solar energy business
-TSLA,2017-07-28,Tesla delivers the first production Model 3 cars to early customers at a handover event
-TSLA,2019-11-21,Tesla unveils the Cybertruck an all-electric pickup truck with a futuristic design
-TSLA,2021-10-25,"Tesla’s market capitalization tops $1 trillion for the first time, after a large order from Hertz"
+AAPL,1976,Apple Computer Company is founded, and Apple I is born
+AAPL,1977,Apple II is released
+AAPL,1980,Apple III is released
+AAPL,1980,Company goes public for $22 per share
+AAPL,1984,The Macintosh is introduced
+AAPL,1985,Steve Jobs leaves the company
+AAPL,1989,The Macintosh Portable is released
+AAPL,1990,3 new Macintosh models launched
+AAPL,1991,The PowerBook is introduced
+AAPL,1997,Steve Jobs regains position as CEO
+AAPL,1997,Apple Online Store launches
+AAPL,1998,The iMac is introduced
+AAPL,2001,First retail stores open
+AAPL,2001,The iPod is launched
+AAPL,2003,iTunes Store launches
+AAPL,2007,iPhone and Apple TV launched, Apple Computers Inc. renamed to Apple Inc.
+AAPL,2008,App Store launches
+AAPL,2010,The iPad is introduced
+AAPL,2010,The iPhone 4 is released
+AAPL,2010,Apple shares reach an all-time high
+AAPL,2011,Jobs resigns due to health problems
+AAPL,2012,The iPhone 5 is launched
+AAPL,2015,Apple Watch is released
+AAPL,2016,AirPods are launched
+AAPL,2018,Apple's value reaches $1 trillion
+AAPL,2023,Apple Vision Pro is announced
+ADBE,1982,Adobe is founded
+ADBE,1983,Apple acquires 15% of Adobe
+ADBE,1984,Adobe PostScript released as first product
+ADBE,1985,Sales reach $1.9 million
+ADBE,1986,Adobe enters the NASDAQ Composite index
+ADBE,1987,Adobe Illustrator is introduced
+ADBE,1990,Adobe Photoshop is released
+ADBE,1992,CEO Charles Geschke is kidnapped
+ADBE,1993,Adobe Premiere is released
+ADBE,1996,Adobe releases first consumer title (PhotoDeluxe)
+ADBE,1997,80% of revenues come from application sales
+ADBE,1998,PDF becomes the new image format for Macintosh OS
+ADBE,1999,Record revenues of $260.9 million for Q3
+ADBE,2000,Named one of the 100 best companies to work for in America
+ADBE,2003,Adobe Audition is released
+ADBE,2005,Adobe acquires Macromedia
+ADBE,2008,Creative Suite 4 is released
+ADBE,2009,Adobe acquires Omniture
+ADBE,2011,Adobe releases first version of Creative Cloud
+ADBE,2012,Last version of Creative Suite (CS6) is released
+ADBE,2013,Sales exceed $4.30 billion
+ADBE,2018,Adobe acquires Magento Commerce
+ADBE,2019,Adobe acquires Allegorithmic
+ADBE,2020,Adobe updates its visual identity
+AMZN,1994,Amazon founded
+AMZN,1997,Amazon IPOs at $18.00/share
+AMZN,1998,Acquires IMDB and expands beyond books
+AMZN,1999,zShops launches
+AMZN,2002,Lawsuit against Barnes & Noble
+AMZN,2003,A9.com is launched
+AMZN,2005,Amazon Prime and Amazon Mechanical Turk are launched
+AMZN,2006,Amazon S3 and Elastic Compute Cloud are launched
+AMZN,2007,Amazon Fresh, Music, and Kindle are launched
+AMZN,2008,Acquires Audible
+AMZN,2009,Acquires Zappos
+AMZN,2010,Kindle e-books outsell hardcover books
+AMZN,2011,Amazon Instant Video and Appstore launched
+AMZN,2013,Amazon launches in India
+AMZN,2014,Kindle Fire launched, acquires Twitch
+AMZN,2015,First physical store opens
+AMZN,2016,Amazon Prime Air is launched
+AMZN,2017,Acquires Whole Foods, searches for second headquarters
+AMZN,2018,Acquires PillPack, reaches $1 trillion market cap, raises minimum wage to $15/h
+AMZN,2019,NY HQ plans scrapped, Amazon Care is launched
+AMZN,2021,Jeff Bezos steps down as CEO
+AMZN,2022,Amazon acquires MGM
+AMZN,2023,Becomes #1 delivery company in the US
+AMZN,2024,Amazon Prime launches new tier supported by ads
+CRM,1999,Founded by Marc Benioff, Parker Harris, Dave Moellenhoff, and Frank Dominguez
+CRM,2000,Launched Salesforce.com, introducing CRM as a SaaS model
+CRM,2001,Experienced rapid growth with over 3,000 customers
+CRM,2003,Surpassed 10,000 customers
+CRM,2004,Went public on NYSE under ticker CRM
+CRM,2005,Launched the AppExchange marketplace
+CRM,2006,Introduced Force.com, the first PaaS offering
+CRM,2007,Entered the Fortune 1000 with over $500 million in revenue
+CRM,2008,Launched Visualforce for custom UI development
+CRM,2009,Achieved $1 billion in annual revenue
+CRM,2010,Introduced Chatter, an enterprise social networking tool
+CRM,2011,Acquired Radian6, entering the marketing cloud space
+CRM,2012,Acquired Buddy Media for social media management
+CRM,2013,Launched Salesforce1, a mobile platform
+CRM,2014,Recognized as the number one CRM provider globally
+CRM,2015,Ecosystem grew to over 1.5 million developers
+CRM,2016,Introduced Einstein, an AI platform
+CRM,2017,Acquired MuleSoft for seamless integration
+CRM,2018,Acquired Datorama and CloudCraze
+CRM,2019,Acquired Tableau for $15.7 billion
+CRM,2020,Launched Work.com during the COVID-19 pandemic
+CRM,2021,Acquired Slack for $27.7 billion
+CRM,2022,Continued innovation with enhancements to Customer 360 platform
+CRM,2023,Introduced new AI-driven features
+CRM,2024,Focus on delivering innovative solutions for digital transformation
+CSCO,1984,Cisco Systems was founded by Sandy Lerner and Leonard Bosack
+CSCO,1985,Cisco sold its first product, a network interface card
+CSCO,1987,Sales of nearly $2 million per month
+CSCO,1988,Founders turn to Sequoia Capital for funding
+CSCO,1989,Revenues reach $27 million
+CSCO,1990,Cisco Systems goes public on NASDAQ
+CSCO,1992,Fortune magazine rates Cisco as second fastest growing company in US
+CSCO,1993,Cisco introduces improved 7000 model router
+CSCO,1994,Cisco introduces its first ATM switch
+CSCO,1995,John Morgridge succeeded by John T. Chambers
+CSCO,1996,Acquires StrataCom, Inc. for $4.67 billion
+CSCO,1997,Becomes supplier for 80% of Internet routers worldwide
+CSCO,1998,Purchases NetSpeed, Inc. and Selsius Systems, Inc.
+CSCO,1999,Sales revenue reaches $12 billion
+CSCO,2000,Becomes most valuable company in the world with market cap over $500 billion
+CSCO,2001,Posts loss of $2.7 billion
+CSCO,2004,Starts migration to new high-end hardware CRS-1 and software architecture IOS-XR
+CSCO,2006,Introduces TelePresence and rebrands as "Cisco"
+CSCO,2007,Sales of carrier-grade routers and switches up 16%
+CSCO,2009,Purchases mobile specialist Starent Networks
+CSCO,2011,Reduces annual expenses by $1 billion
+CSCO,2012,Receives EU approval to acquire NDS for $5 billion
+CSCO,2013,Acquires Sourcefire for $2.7 billion and sells Linksys home-router unit
+CSCO,2014,Announces funding for early-stage firms focused on IoT
+CSCO,2015,John Chambers steps down as CEO, Cisco cofounds OpenFog Consortium
+CSCO,2016,Invests in VeloCloud, a software-defined WAN start-up
+CSCO,2017,Launches cloud-based secure internet gateway, Cisco Umbrella
+CSCO,2018,Agrees to buy Accompany for $270 million
+CSCO,2019,Acquires CloudCherry and Voicea
+CSCO,2020,SVP and GM of Enterprise Networking leaves to become CEO of Western Digital
+GOOGL,1997,Domain google.com is registered
+GOOGL,1998,Google officially founded, first Google Doodle
+GOOGL,2000,Google AdWords launched
+GOOGL,2001,Google Image Search launched
+GOOGL,2004,Gmail announced
+GOOGL,2005,Google Maps launched, research partnership with NASA
+GOOGL,2006,Google buys YouTube
+GOOGL,2007,Buys DoubleClick, launches Street View
+GOOGL,2008,Google Chrome and Android OS released
+GOOGL,2010,Nexus One launched
+GOOGL,2011,Google reaches 1 billion unique site visitors
+GOOGL,2014,Google sells Mobility, invests in Nest Lab
+GOOGL,2015,Announces restructuring as Alphabet Inc., new logo
+GOOGL,2016,EU files antitrust complaint, launches Google Pixel
+GOOGL,2017,Announces restructuring as Google LLC
+GOOGL,2018,BERT released
+GOOGL,2021,Ubisoft and Take-Two bring games to Stadia
+GOOGL,2022,Adds Privacy Guide to Chrome
+GOOGL,2023,BARD AI launched, 25 years of Google
+IBM,1911,IBM incorporated as Computing-Tabulating-Recording Company
+IBM,1914,Thomas J. Watson becomes general manager
+IBM,1924,Assumes present name (International Business Machines)
+IBM,1933,IBM purchases Electromatic Typewriters, Inc.
+IBM,1934,IBM introduces the IBM 801 Bank Proof machine
+IBM,1937,IBM starts offering paid vacations to employees
+IBM,1943,IBM establishes facility in San Jose, California
+IBM,1945,IBM Research begins
+IBM,1952,Thomas Watson, Jr. becomes president
+IBM,1954,IBM delivers the Naval Ordnance Research Calculator (NORC)
+IBM,1956,IBM Research - Zurich opens, IBM 305 RAMAC released
+IBM,1957,IBM releases Fortran
+IBM,1961,Thomas J. Watson Research Center established
+IBM,1964,IBM System/360 announced
+IBM,1966,IBM Information Management System released, DRAM developed
+IBM,1969,IBM supports Apollo 11 mission, stops bundling hardware/services/software
+IBM,1971,Floppy discs become commercially available
+IBM,1973,IBM 3340 hard disk unit (Winchester) introduced
+IBM,1975,IBM introduces the IBM 5100, its first portable computer
+IBM,1981,IBM Personal Computer (model 5150) introduced
+IBM,1983,IBM Personal Computer XT announced
+IBM,1984,IBM 3270 PC released
+IBM,1991,IBM announced the PS/1, aimed at home users
+IBM,1992,IBM introduces ThinkPad line of laptop computers
+IBM,2002,Acquires PwC Consulting division
+IBM,2005,Sells PC business to Lenovo
+IBM,2011,Watson computer defeats Jeopardy! champions
+IBM,2018,Acquires Red Hat for $34 billion
+IBM,2019,Completes acquisition of Red Hat
+INTC,1968,Intel is founded by Robert Noyce and Gordon Moore
+INTC,1969,Advanced Micro Devices founded by Jerry Sanders
+INTC,1970,Intel's 3rd product, the Intel 1103, is released
+INTC,1971,Intel goes IPO at $23.50 a share, launches first microprocessor (4004)
+INTC,1972,Intel announces the first 8-bit microprocessor (8008)
+INTC,1974,Intel launches the Intel 8080 microprocessor
+INTC,1976,Intel launches the MCS-48 series of microcontrollers
+INTC,1978,Intel introduces the 8086 16-bit microprocessor
+INTC,1979,Intel launches "Operation Crush" campaign
+INTC,1980,Intel and Xerox introduce cooperative Ethernet project
+INTC,1982,Intel launches the 16-bit Intel 286 microprocessor
+INTC,1985,Intel enters the parallel supercomputer business, launches 80386 processor
+INTC,1989,Intel introduces the 80486 microprocessor, launches "Red X" marketing campaign
+INTC,1990,Robert Noyce dies, Intel loses suit against AMD
+INTC,1991,Intel decides to stick with CISC architecture, starts "Intel Inside" marketing campaign
+INTC,1993,Intel launches the Pentium processor
+INTC,1994,Intel suffers PR disaster over Pentium division flaw
+INTC,1995,Intel launches the Pentium Pro processor
+INTC,1997,Intel launches the Pentium II line
+INTC,1998,Intel rolls out the Pentium II Xeon processor
+INTC,1999,Intel launches the Pentium III generation
+INTC,2000,Intel introduces the Pentium 4 processor
+INTC,2003,Intel introduces Centrino processor technology
+INTC,2005,AMD files lawsuit against Intel
+INTC,2006,Intel launches the Core 2 Duo processor
+INTC,2008,Intel announces the Intel Atom and Nehalem microprocessor
+INTC,2011,Intel announces the Sandy Bridge series, announces 3D transistors
+INTC,2013,Intel releases Haswell processors
+INTC,2015,Thomas Sohmers announces Rex Systems as Intel competitor
+INTC,2016,Intel announces withdrawal from smartphone market
+META,2004,"TheFacebook" launches, LLC is formed, first official investment
+META,2005,The company acquires facebook.com domain, introduces tagging
+META,2006,News Feed is launched
+META,2007,Facebook goes mobile, launches Facebook Platform for developers
+META,2008,Settles dispute with ConnectU, establishes international HQ in Dublin
+META,2009,The "Like" button is introduced
+META,2011,Facebook partners with Skype, introduces Timeline
+META,2012,Facebook acquires Instagram, goes public
+META,2013,Stickers are launched, launches Internet.org
+META,2014,Acquires WhatsApp
+META,2015,Peer-to-peer payments in Messenger, announces support for GIFs
+META,2016,Facebook reactions are launched
+META,2017,Announces Facebook Spaces, acquires tbh
+META,2018,Cambridge Analytica data scandal
+META,2020,Purchases GIPHY, launches Dark Mode for mobile
+META,2021,Data breach exposes 530m users, renamed as Meta Platforms Inc.
+META,2022,Daily active users drop for first time, first Meta store opens
+META,2023,LLaMA, Ray-Ban Meta Smart Glasses, Threads launched
+META,2024,Announces AGI plans
+MSFT,1975,Microsoft founded
+MSFT,1979,Microsoft moves to Bellevue, Washington
+MSFT,1981,Microsoft incorporates, IBM introduces PC with MS-DOS 1.0
+MSFT,1986,Microsoft moves to Redmond, stock goes public
+MSFT,1989,Microsoft introduces earliest version of Office suite
+MSFT,1990,Microsoft launches Windows 3.0
+MSFT,1995,Microsoft launches Windows 95, Bill Gates outlines commitment to Internet
+MSFT,1998,Microsoft launches Windows 98
+MSFT,2000,Steve Ballmer named president/CEO, Windows 2000 launched
+MSFT,2001,Microsoft launches Office XP, Windows XP, Xbox
+MSFT,2003,Microsoft launches Windows Server 2003
+MSFT,2005,Microsoft launches Xbox 360
+MSFT,2007,Microsoft launches Windows Vista and 2007 Office System
+MSFT,2008,Bill Gates transitions from day-to-day role
+MSFT,2009,Microsoft launches Bing decision engine
+MSFT,2010,Microsoft launches Office 2010, Windows Phone 7
+MSFT,2011,Microsoft launches Office 365
+MSFT,2012,Microsoft acquires Yammer, launches Windows Server 2012, Windows 8, Surface
+MSFT,2013,Microsoft launches Office 2013, Outlook.com, acquires Nokia's devices/services
+MSFT,2014,Satya Nadella named CEO, Microsoft launches Office for iPad
+MSFT,2015,Microsoft launches Windows 10, Office 2016
+MSFT,2016,Microsoft introduces Surface Book, Surface Pro 4
+MSFT,2017,Microsoft releases Visual Studio 2017, Teams, new Surface Pro
+MSFT,2018,Microsoft breaks ground on new Silicon Valley campus
+MSFT,2019,Microsoft announces $500 million for affordable housing, introduces HoloLens 2
+MSFT,2020,Microsoft announces plan to become carbon negative by 2030
+MSFT,2021,Microsoft introduces Viva employee experience platform
+MSFT,2022,Microsoft announces plans to acquire Activision Blizzard
+NFLX,1997,Netflix founded in Scotts Valley, California
+NFLX,1998,Netflix launches its website with 925 titles
+NFLX,1999,Netflix launches its monthly subscription concept
+NFLX,2000,Netflix offers itself for acquisition to Blockbuster for $50 million
+NFLX,2002,Netflix initiates IPO, selling 5.5 million shares at $15.00 per share
+NFLX,2003,Netflix announces it reaches 1 million subscribers
+NFLX,2004,Blockbuster launches online service to compete with Netflix
+NFLX,2006,Netflix offers $1,000,000 prize for recommendation algorithm
+NFLX,2007,Netflix announces streaming video service
+NFLX,2008,Netflix experiences database corruption, moves to AWS
+NFLX,2010,Netflix starts international expansion to Canada
+NFLX,2011,Netflix stock plunges from 42.16 to 9.12 per share
+NFLX,2012,Netflix expands to Europe
+NFLX,2013,Netflix starts streaming House of Cards, its first original content
+NFLX,2014,Netflix discovers Comcast slowing traffic, participates in "Internet Slowdown"
+NFLX,2015,Netflix announces 7:1 stock split, launches in Japan
+NFLX,2016,Netflix completes migration to AWS, introduces offline playback
+NFLX,2017,Netflix subscribers equal all cable subscribers combined
+NFLX,2018,Netflix created Netflix Animation as first production studio
+NFLX,2019,Friends and The Office announced to leave the platform
+NFLX,2021,Netflix launches gaming platform, Reed Hastings steps down as CEO
+NFLX,2022,Netflix raises prices and loses 1 million customers
+NFLX,2023,Netflix announces wind-down of DVD.com
+NVDA,1993,NVIDIA founded by Jensen Huang, Chris Malachowsky, and Curtis Priem
+NVDA,1994,NVIDIA partners with semiconductor supplier SGS-Thomson
+NVDA,1995,NVIDIA releases the NV1, gets first round of outside funding
+NVDA,1996,NVIDIA focuses on creating graphics for the desktop PC market
+NVDA,1997,NVIDIA launches RIVA 128, the first high-performance 128-bit Direct3D processor
+NVDA,1998,NVIDIA launches RIVA TNT, moves headquarters to Santa Clara
+NVDA,1999,NVIDIA goes public at $12 a share
+NVDA,2000,NVIDIA becomes supplier of graphics processors for Microsoft's Xbox
+NVDA,2001,NVIDIA supplies GPUs for Apple's Power Mac G4
+NVDA,2006,NVIDIA releases CUDA for parallel processing
+NVDA,2007,NVIDIA launches Tesla products for scientific computing
+NVDA,2010,NVIDIA's Fermi Architecture enhances parallel computing capabilities
+NVDA,2012,NVIDIA released the AlexNet neural network
+NVDA,2014,Maxwell Architecture improves power performance and efficiency
+NVDA,2016,NVIDIA donated a DGX-1 supercomputer to OpenAI
+NVDA,2017,The Volta Architecture powers NVIDIA's Tesla V100 Tensor Core
+NVDA,2018,The Turing Architecture released
+NVDA,2020,The Ampere Architecture further enhances AI capabilities
+NVDA,2022,The Ada Lovelace and Hopper Architecture released
+NVDA,2023,The Grace Architecture designed for AI and HPC
+NVDA,2024,NVIDIA passes Microsoft and Apple to become world's most valuable company
+ORCL,1977,Oracle name drawn from CIA project codename
+ORCL,1978,First Oracle database born, written in assembly language
+ORCL,1979,Oracle released as earliest commercial RDBMS to use SQL
+ORCL,1982,RSI becomes Oracle Systems Corporation
+ORCL,1983,Oracle develops first portable RDBMS
+ORCL,1985,Oracle v5 released, one of first RDBMS to operate in client-server mode
+ORCL,1986,Oracle goes public by selling one million shares
+ORCL,1987,Oracle becomes largest database management company in the world
+ORCL,1990,Oracle experiences first ever loss in third quarter
+ORCL,1992,Oracle 7 released with application development tools
+ORCL,1995,Oracle Systems Corporation merges with Oracle Corporation
+ORCL,1997,Oracle8 released with Internet technology
+ORCL,1998,Oracle begins restructuring around Internet operations
+ORCL,1999,Oracle offers first DBMS with XML support
+ORCL,2001,Oracle has sales of $11 billion with profits of $2.6 billion
+ORCL,2002,Oracle releases Oracle Database, Application Server, and E-Business Suite
+ORCL,2005,Oracle acquires PeopleSoft
+ORCL,2008,Oracle acquires Sun Microsystems (and Java, Solaris, MySQL)
+ORCL,2014,Ellison steps down as CEO, becomes chairman
+ORCL,2016,Oracle buys NetSuite
+ORCL,2017,Oracle becomes one of most successful companies with profit percentages over 30%
+ORCL,2021,Oracle announces acquisition of Cerner
+TSLA,2003,Tesla is founded
+TSLA,2004,Series A funding, Elon Musk becomes chairman
+TSLA,2008,The Roadster enters production, Musk becomes CEO
+TSLA,2010,Tesla goes IPO at $17 per share, Tesla Factory opens in Fremont, CA
+TSLA,2012,Model S officially released
+TSLA,2014,Tesla open-sources its patents
+TSLA,2015,Powerwall announced, Model X released
+TSLA,2016,Autopilot introduced for Model S
+TSLA,2017,Tesla Motors renamed to Tesla Inc., Model 3 is released
+TSLA,2018,Musk announces plans to take Tesla private, SEC charges Musk with fraud
+TSLA,2019,Production at Shanghai factory commences, Model Y unveiled
+TSLA,2020,Tesla joins S&P 500
+TSLA,2021,Tesla valuation reaches $1 trillion, HQ moved to Texas
+TSLA,2022,New Tesla factory opens near Berlin
+TSLA,2023,Cybertruck enters production, Model Y becomes best selling EV worldwide
