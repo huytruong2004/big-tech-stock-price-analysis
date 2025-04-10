@@ -39,13 +39,13 @@
 
 - [X] Create repository and add dataset
 - [X] Manually collect data to form up the company-specific Timeline Dataset
-- [ ] Events impact analysis
+- [X] Events impact analysis
   - Use Plotly to create candlestick charts for all 15 big techs to show daily trading data (using open, high, low, close columns), with an option to choose the period (7D, 30D) to display.
   - Overlay with calculated indicators like moving averages (MA) and Bollinger Bands to illustrate volatility to support technical analysis, with an option to toggle on or off.
   - Overlay event markers (annotations) at specific dates to denote product launches, company events, or economic milestones and showing details only on hover.
-- [ ] Correlation analysis
+- [X] Correlation analysis
   - Pick some high-impact events between companies during that event period.
   - Use interactive heatmaps and correlation matrices that update over different sliding window.
   - Give insights about the companies' correlation (Why are they behaving like that? What causes?, What market factors or industry trends might explain these relationships?)
-- [ ] Presentation
-- [ ] Final report
+- [X] Presentation
+- [X] Final report
